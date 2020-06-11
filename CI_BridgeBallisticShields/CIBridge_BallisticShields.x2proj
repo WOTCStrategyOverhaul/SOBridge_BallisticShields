@@ -12,6 +12,9 @@
     <Folder Include="Config\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Config\XComInfiltration.ini">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Config\XComStrategyTuning.ini">
       <SubType>Content</SubType>
     </Content>
