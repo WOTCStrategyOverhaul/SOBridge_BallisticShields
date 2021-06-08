@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Guid>47d87859-7dab-450a-ab52-739bac8bc963</Guid>
-    <Name>CIBridge_BallisticShields</Name>
+    <Name>SOBridge_BallisticShields</Name>
     <Description>Description of My XCOM 2 Mod.</Description>
     <SteamPublishID>0</SteamPublishID>
     <AssemblyName>CI_BridgeBallisticShields</AssemblyName>
