@@ -5,8 +5,8 @@
     <Name>SOBridge_BallisticShields</Name>
     <Description>Description of My XCOM 2 Mod.</Description>
     <SteamPublishID>0</SteamPublishID>
-    <AssemblyName>CI_BridgeBallisticShields</AssemblyName>
-    <RootNamespace>CI_BridgeBallisticShields</RootNamespace>
+    <AssemblyName>SOBridge_BallisticShields</AssemblyName>
+    <RootNamespace>SOBridge_BallisticShields</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Config\" />
