@@ -7,6 +7,7 @@
     <SteamPublishID>0</SteamPublishID>
     <AssemblyName>SOBridge_BallisticShields</AssemblyName>
     <RootNamespace>SOBridge_BallisticShields</RootNamespace>
+    <ProjectGuid>{E969EDB1-5D09-4DAB-9BD6-C2B2BD46FC15}</ProjectGuid>
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Config\" />
